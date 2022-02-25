@@ -1,9 +1,11 @@
+About me: Self-taught Software Developer looking for projects. Python | HTML | CSS 
 - 🔭 I’m currently working on ... eCommerece site
 - 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
+- Technical Skills:
+  -Python/HTML/CSS- made a variety of projects building user applications
+  -Other: Github, Visual Studio code, Tkinter
+  
+- linkedin @ www.linkedin.com/in/sergio-mendoza-software-developer
 - 📫 How to reach me: ...[Email]: sergiomendozansx@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
