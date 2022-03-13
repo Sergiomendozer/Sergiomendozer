@@ -1,6 +1,6 @@
-About me: Self-taught Software Developer looking for projects. Python | JavaScirpt | React | HTML | CSS 
-- 🔭 I’m currently working on ... Suduku 4by4, then solver for Suduku
-- 🌱 I’m currently learning ...React & Bootstrap
+About me: Self-taught Software Developer looking for projects. Python | JavaScirpt | HTML | CSS 
+- 🔭 I’m currently working on ... Suduku 4by4 with solver and 9by9 with solver
+- 🌱 I’m currently learning ...React & Bootstrap 
 - 🏁 I currently just finished ... Rock Paper Scissors (react)
 - 💬 Ask me about ...Anything
 - Technical Skills:
