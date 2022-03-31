@@ -9,7 +9,7 @@ About me: Self-taught Software Developer looking for projects. Python | JavaScir
     
  - Other: Github, Visual Studio code, Tkinter
   
-- Portfolio: https://sergiomendozer.github.io/Portfolio/
-- linkedin @ www.linkedin.com/in/sergio-mendoza-software-developer
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sergiomendozer.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-mendoza-software-developer/)
 - 📫 How to reach me: ...[Email]: sergiomendozansx@gmail.com
 
