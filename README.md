@@ -1,7 +1,7 @@
 About me: Self-taught Software Developer looking for projects. Python | JavaScirpt | HTML | CSS  
 - 🔭 I’m currently working on ... Portfolio 
 - 🌱 I’m currently learning ... TypeScript
-- 🏁 I currently just finished ... Sudoku 9by9 and 4by4 Solver
+- 🏁 I currently just finished ... Portfolio 
 - 💬 Ask me about ... Anything
 - Technical Skills: 
   -Python/JavaScript/HTML/CSS- made a variety of projects building user applications
