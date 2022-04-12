@@ -1,5 +1,4 @@
 About me: Self-taught Software Developer looking for projects. Python | JavaScirpt | HTML | CSS  
-- 🔭 I’m currently working on ... Portfolio 
 - 🌱 I’m currently learning ... TypeScript
 - 🏁 I currently just finished ... Portfolio 
 - 💬 Ask me about ... Anything
@@ -13,3 +12,4 @@ About me: Self-taught Software Developer looking for projects. Python | JavaScir
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-mendoza-software-developer/)
 - 📫 How to reach me: ...[Email]: sergiomendozansx@gmail.com
 
+<!-- - 🔭 I’m currently working on ...  -->
