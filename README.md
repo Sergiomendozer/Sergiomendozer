@@ -1,6 +1,6 @@
 About me: Self-taught Software Developer looking for projects. Python | JavaScirpt | HTML | CSS    
-- 🌱 I’m currently learning ... TypeScript 
 - 🏁 I currently just finished ... Portfolio  
+- 🌱 Interested in learning: TypeScript, C#, .Net
 - 💬 Ask me about ... Anything 
 - Technical Skills: 
   -Python/JavaScript/HTML/CSS- made a variety of projects building user applications
