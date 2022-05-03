@@ -1,4 +1,4 @@
-About me: Self-taught Software Developer looking for projects. Python | JavaScirpt | HTML | CSS    
+About me: Self-taught Software Developer looking for projects. Python | JavaScript | HTML | CSS    
 - 🏁 I currently just finished ... Portfolio  
 - 🌱 Interested in learning: C#, .Net, and SQL
 - 💬 Ask me about ... Anything 
