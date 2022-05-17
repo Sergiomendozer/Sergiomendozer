@@ -1,6 +1,6 @@
 About me: Self-taught Software Developer looking for projects. Python | JavaScript | HTML | CSS    
 - 🏁 I currently just finished ... Portfolio  
-- 🌱 Interested in learning: C#, .Net, and SQL
+- 🌱 Interested in learning: TypeScript, C#, .Net, and SQL
 - 💬 Ask me about ... Anything 
 - Technical Skills: 
   -Python/JavaScript/HTML/CSS- made a variety of projects building user applications
