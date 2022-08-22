@@ -1,4 +1,4 @@
-About me: Self-taught Software Developer looking for projects. Python | TypeScript | JavaScript | HTML | CSS | SQL  
+About me: Python | TypeScript | JavaScript | HTML | CSS | SQL  
 - 🏁 I currently just finished ... Portfolio  
 - 🌱 Interested in learning: C#, .Net
 - 💬 Ask me about ... Anything 
