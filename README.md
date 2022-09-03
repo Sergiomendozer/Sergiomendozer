@@ -1,4 +1,4 @@
-About me: Python | TypeScript | JavaScript | HTML | CSS | SQL  
+About me: HTML | CSS | SalesForce | TypeScript | JavaScript | Python | SQL 
 - 🏁 I currently just finished ... Portfolio  
 - 🌱 Interested in learning: C#, .Net
 - 💬 Ask me about ... Anything 
