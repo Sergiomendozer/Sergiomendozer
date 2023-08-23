@@ -1,6 +1,5 @@
 About me: HTML | CSS | SalesForce | TypeScript | JavaScript | Python | SQL 
-- 🏁 I currently just finished ... Portfolio  
-- 🌱 Interested in learning: C#, .Net
+- 🌱 Interested in learning: C#, Tailwind, HTMX
 - 💬 Ask me about ... Anything 
 - Technical Skills: 
   -Python/TypeScript/JavaScript/HTML/CSS/SQL- made a variety of projects building user applications
